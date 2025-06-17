@@ -1,12 +1,7 @@
-﻿// ClippingLoops.cpp : Defines the entry point for the application.
-//
-
-#include "ClippingLoops.h"
-
-using namespace std;
+﻿#include <iostream>
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	std::cout << "test\n";
 	return 0;
 }
